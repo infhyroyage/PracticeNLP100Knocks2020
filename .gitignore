@@ -2,5 +2,6 @@
 Input/GoogleNews-vectors-negative300.bin
 Input/newsCorpora.csv
 Output/Chapter02/16.txt*
+Output/Chapter08/76_w_epoch*.pt
 Digraph.gv
 Digraph.gv.pdf
