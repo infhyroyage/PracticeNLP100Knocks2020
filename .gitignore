@@ -1,5 +1,7 @@
+.data
 .ipynb_checkpoints
 Input/GoogleNews-vectors-negative300.bin
+Input/kftt-data-1.0
 Input/newsCorpora.csv
 Output/Chapter02/16.txt*
 Output/Chapter08/76_w_epoch*.pt
